@@ -4,7 +4,7 @@
 ## Introdução
 
 O trabalho consiste em modelar e implementar, por Branch & Bound, o
-problema Caminhada Máxima, descrito na Seção 2.
+problema Caminhada Máxima, descrito na Seção "O problema".
 A resolução do problema, ou seja, a descrição do problema, da modelagem
 e da implementação, deve estar em um texto claro em formato de um artigo
 em pdf. Além disso, deve ser feita uma análise com sua função limitante
@@ -76,7 +76,7 @@ Os relatórios com o número de nós e o tempo foram omitidos nestes exemplos
 
 ![image](https://github.com/felipeymn/t2-otimizacao/assets/34167982/22bf0f68-bf32-426e-9d1f-d87933c2769f)
 
-Figura 1: Desenho do exemplo 2.2.1
+Figura 1: Desenho do exemplo
 
 Entrada:  
 > 3  
@@ -89,14 +89,12 @@ Saı́da:
 > 1231  
 > 3  
 
-#### 2.2.2
-
-Exemplo com n = 6 com partes inacessı́veis (pois não tem
+#### Exemplo com n = 6 com partes inacessı́veis (pois não tem
 caminho de volta)
 
 ![image](https://github.com/felipeymn/t2-otimizacao/assets/34167982/0acf0986-c477-463f-9674-5a79b3d7fc2b)
 
-Figura 2: Desenho do exemplo 2.2.2
+Figura 2: Desenho do exemplo
 
 Entrada:
 > 6  
